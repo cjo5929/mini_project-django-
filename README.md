@@ -1,4 +1,6 @@
 # MyPetDiary
+![화면 캡처 2022-01-29 222936](https://user-images.githubusercontent.com/90138160/151663057-43c0b1ac-004a-4f8c-a8d5-96459f184bff.png)
+
   - KT Django mini project
   - 2022.01.17 - 2022.01.28(5일간)
   - 수도권 2반 3조(5인1조)
