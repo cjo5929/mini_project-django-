@@ -29,3 +29,6 @@
 
 ## Data Base in Work Bench
 ![화면 캡처 2022-01-29 222913](https://user-images.githubusercontent.com/90138160/151662922-28d59e00-d2eb-4078-b748-082eaab21199.png)
+
+## 발표 자료 및 소개
+- [notion](https://rkdalstj4505.notion.site/Day-29-33-2021-1-24-28-Django-WebApp-1-5-85973dd807b440b4aa2e6039be2b9a7b)
