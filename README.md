@@ -16,6 +16,12 @@
 
 
 ## Environments & Tools
+### front-end
+- bootstrap
+- css
+### backend
+- django
+- Mysql
 ![화면 캡처 2022-01-29 222902](https://user-images.githubusercontent.com/90138160/151663036-68c2e73e-b2b1-43e0-8600-01dcf993fa08.png)
 
 
